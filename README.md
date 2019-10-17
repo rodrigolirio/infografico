@@ -1,2 +1,0 @@
-#infografico
-pagina dos pauzudo
