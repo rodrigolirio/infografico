@@ -1,0 +1,47 @@
+body {
+    background-color: #2D2926;
+}
+
+.navbar-color {
+    background-color: #9FC4A6;
+}
+
+.navbar-estilo {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+    z-index: 99;
+}
+
+.fonte {
+    font-family: 'Permanent Marker', cursive;
+}
+.fonte11 {
+    font-size: 11px;
+}
+
+.fonte10 {
+    font-size: 30px;
+}
+
+.fonte20 {
+    font-size: 30px;
+}
+
+.fonte30 {
+    font-size: 30px;
+}
+.imagem-css{
+    max-width: 100%;
+    height: auto;
+    padding-top: 150%;
+}
+margem{
+    margin-top: 150%;
+}
+#world-map {
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+}
